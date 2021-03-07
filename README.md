@@ -1,14 +1,14 @@
 ### Adriele Rodrigues
-Hi, I'm Adriele (she/her) — a web developer and I live in São Paulo, SP 💕
+Hi! I'm Adriele (she/her) — a web developer, and I live in Sorocaba, SP. 💕
 
 ### 🔭 I’m currently working...
-a software engineer at Accenture BR, on a e-commerce project for a global beauty and wellness company
+as a software engineer at Accenture BR, on an e-commerce project for a global beauty and wellness company.
 
 ### 🌱 I’m currently learning...
-about serverless architecture, cloud computing and javascript
+about serverless architecture, cloud computing, javascript, and digital marketing.
 
 ### 💬 You can ask me about...
-JavaScript, react ecosystem and this wonderful world of web and some off-topic subjects like places to visit, food and music
+JavaScript, React ecosystem, and this wonderful world of web and some off-topic subjects like places to visit, food, and music.
 
 ### 📫 You can also find me at the links below:
 - Twitter: https://twitter.com/adrielerodr
