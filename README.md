@@ -6,9 +6,3 @@ about serverless architecture, cloud computing, javascript, and digital marketin
 
 ### 💬 You can ask me about...
 JavaScript, React ecosystem, and this wonderful world of web and some off-topic subjects like places to visit, food, and music.
-
-### 📫 You can also find me at the links below:
-- Twitter: https://twitter.com/adrielerodr
-- Medium: https://medium.com/@adrielerodr
-- Dev.to: https://dev.to/adrielerodr
-- Instagram: https://www.instagram.com/adrielerodr/
